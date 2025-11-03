@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Primera modificación
-=======
+
 Primera modificación
 Segunda modiicación
 Tercera modificación
->>>>>>> 9f88526 (Tercera modificación)
+
