@@ -2,10 +2,8 @@
 Primera modificación
 Segunda modiicación
 Tercera modificación
-<<<<<<< HEAD
-=======
 Cuarta modificación
 Quinta modificación
 Sexta modificación
->>>>>>> 90e239a (Hecha sexta modificación)
+
 
